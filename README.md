@@ -16,23 +16,28 @@ This project analyzes the operational performance of a restaurant delivery busin
 
 ---
 
-## Tools
+## Technologies
 
 - SQL
-- Relational Databases
+- MySQL
+- Git
+- GitHub
 
 ---
 
-## Skills Demonstrated
+## SQL Concepts Used
 
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- JOINS
+- Aggregate Functions
+- CASE
+- Common Table Expressions (CTEs)
+- Window Functions
 - Data Cleaning
 - Data Transformation
-- Data Validation
-- SQL Joins
-- Aggregate Functions
-- CASE Statements
-- Common Table Expressions (CTEs)
-- Business Analysis
 
 ---
 
